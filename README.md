@@ -1,0 +1,1 @@
+This repository contains a Julia function that exhibits unexpected behavior for certain inputs. The function `my_function` aims to square positive inputs and negate negative ones.  However, it returns an incorrect value when the input is 0.  The `bug.jl` file demonstrates the issue, and `bugSolution.jl` provides a corrected version.
